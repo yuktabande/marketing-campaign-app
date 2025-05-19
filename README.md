@@ -1,4 +1,4 @@
-# Marketing Campaign App
+# [Marketing Campaign App](https://yuktabande-marketing-campaign-app-app-vkolmr.streamlit.app/)
 
 A Streamlit-based AI-powered tool to generate marketing content tailored for different age groups and tasks using Google Gemini (via LangChain).
 
